@@ -1,0 +1,11 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+intro,I am an ecotoxicologist specialized in Risk Assessment. I have experience analyzing [toxicological databases](https://joss.theoj.org/papers/10.21105/joss.00785) of aquatic organisms as well as in the use of [models that allow to simulate the environmental fate of pesticides](https://www.sciencedirect.com/science/article/pii/S0048969719342159).
+,
+I love programming. I believe that software development and databases that are produced in research should have the same level of recognition and quality as a scientific article.,
+,
+cursos,In addition to having a bachelor's degree in education oriented to Biological Sciences, complement that training with several courses on teaching programming. I have given various workshops and talks on R in different conferences and events.
+teaching_experience_aside,I am an organizer of different communities and scientific events. I like to learn from others, build networks, communicate and work as a team.
+data_science_writing_aside,I am currently focused on publishing the software and data for my articles with an emphasis on computational reproducibility, as I pointed out in my last talk.
+otros,I have used R for data analysis, web application development with {Shiny}, and R packages for my research. I also had the experience of being able to build interactive tutorials with {learnR} and another framework.
+charlas,On my website I usually upload information and material from my talks and workshops.

@@ -1,0 +1,216 @@
+Where in your CV this entry belo”Main title of the entry”                                                                 ”Location the entry occured”
+section                         ”title”                                                                                   ”loc”
+education                       ”PhD in Biological Sciences. ”                                                            ”University of Buenos Aires”
+education                       ”Licenciate in Biological Sciencies”                                                      ”University of Buenos Aires”
+education                       ”Professor of Middle and Higher Education in Biological Sciences”                         ”University of Buenos Aires”
+research_positions              ”PostDoc National Institute of Agricultural Technology (INTA)-CONICET”                    ”Institute of Biological Resources.  National Institute of Agricultural Technolo
+research_positions              ”Emerging Leaders in the Americas Program Fellow”                                         ”Institut National de la Recherche Scientifique (INRS)”
+research_positions              ”Doctoral Scholarship in the strategic theme of Water Resources”                          ”Institute of Biological Resources.  National Institute of Agricultural Technolo
+research_positions              ”Stimulus Scholarship of the University of Buenos Aires for undergraduate students”       ”Xenobiotic Metabolic Disturbances Laboratory. Biological Chemistry Department.”
+comunidades                     ”[R-Ladies](https://rladies.org/)  Global team - R-Ladies Chapter Mentoring Program”      ”Encharged of the program”
+comunidades                     ”ReproHack”                                                                               ”Core-team”
+comunidades                     ”[R-Ladies](https://rladies.org/) Global - R-Ladies Communitary Slack”                    ”Team member”
+comunidades                     ”R en Buenos Aires”                                                                       ”Co-organizer”
+comunidades                     ”R-Ladies Buenos Aires”                                                                   ”Co-organizer”
+cursos                          ”Shiny Instructor Certification”                                                          ”RStudio”
+cursos                          ”Tidyverse Instructor Certification”                                                      ”RStudio”
+cursos                          ”Software Carpentry Instructor Training”                                                  ”[The Carpentries.](https://carpentries.org/)”
+cursos                          ”Multivariate Analysis with R applied to Ecology,  Genetics and Evolution”                ”University of Buenos Aires”
+cursos                          ”Workshop "Intermediate Shiny"”                                                           ”RStudioConf::2018”
+cursos                          ”Temas quÃ­micos en gestiÃ³n ambiental”                                                   ”University of Buenos Aires”
+cursos                          ”El ciclo del agua desde la perspectiva de los ecosistemas terrestes”                     ”National University of San Luis”
+teaching_positions              ”Postgraduate course ["Programming in R for Data Analysis"](https://flor14.github.io/Curso”National University of the Northeast”
+charlas                         ”Talk ["Producing my next scientific article with R"] (https://flor14.github.io/seminario_”Institute of Biological Resources.  National Institute of Agricultural Technolo
+charlas                         ”Talk ["Reproducibility in R: sharing interactive environments with Binder"] (https://flor”R-Ladies Buenos Aires”
+extension                       ”Workshop ["Introduction to Shiny"] (https://flor14.github.io/latinr_shiny_filminas_2020/l”LatinR Conference 2020”
+extension                       ”[Translation of Data Carpentry lessons] (https://2020.carpentrycon.org/blog/Hablamos/)”  ”Event at [CarpentryCon 2020](https://carpentrycon.org/)”
+extension                       ”Workshop "Open Data and Reproducibility v2.1"”                                           ”Workshop at [CarpentryCon 2020](https://carpentrycon.org/)”
+extension                       ”Workshop ["Introduction to Shiny"] (https://github.com/flor14/rladies_shiny_meetup_2020_e”Workshop at R-Ladies Resistencia-Corrientes”
+extension                       ”[Introductory Workshop to the R language] (https://flor14.github.io/r_cai_2019/)”        ”Conference of AgroInformatics Argentine (CAI) - Conference on Informatics Argen
+extension                       ”[Carpentries Teaching practises for R users](https://www.raynamharris.com/2018-09-05-Lati”LatinR Conference 2018”
+extension                       ”Translation of two chapters of the book ["R for Data Science"] (https://es.r4ds.hadley.nz”R4DS Community (in Spanish)”
+extension                       ”Translation into Spanish of lessons "R for reproducible scientific analysis"”            ”[The Carpentries.](https://carpentries.org/)”
+extension                       ”Taller a docentes "ContaminaciÃ³n y calidad de agua"”                                    ”INTA Castelar”
+extension                       ”R course for scientists”                                                                 ”VII Conference of the Environmental Chemistry and Toxicology Society Argentine
+extension                       ”Taller de relevamiento de anfibios ”                                                     ”INTA Castelar”
+data_science_writing            ”[Lethal and sublethal effects of the natural and healthy spinosad-based formulation Trace”Environmental Science and Pollution Research”
+data_science_writing            ”[Frog somatic indices: Importance of considering allometric scaling, relation with body c”Ecological Indicators”
+data_science_writing            ”[The problem with implementing fish farms in agricultural regions: A trial in a pampean p”Chemosphere”
+data_science_writing            ”[Sensitivy analysis of the Pesticide in Water Calculator Model for applications in the Pa”Science of the Total Environment”
+data_science_writing            ”[New record of Pseudis minuta GÃ¼nther, 1858 - Anura: Hylidae - in South Santa Fe Provinc”Herpetology Notes.: Societas Europaea Herpetologica (SEH)”
+data_science_writing            ”[shinyssd v1.0: Species Sensitivity Distributions for Ecotoxicological Risk Assessment](h”Journal of Open Source Software”
+data_science_writing            ”[Trends in reference evapotranspiration and associated climatic variables over the last 3”Theoretical and Applied Climatology”
+data_science_writing            ######################################################################################### ”Chemosphere”
+data_science_writing            ”[New record of Pseudis minuta GÃ¼nther, 1858 - Anura: Hylidae - in South Santa Fe Provinc”Herpetology Notes.: Societas Europaea Herpetologica”
+rrhh                            ”Pre-professional internships. PROCAGRA program.”                                         ”National Center for Agricultural Research”
+eventos_cyt                     ”[LatinR](https://latin-r.com/). Latin American Conference on the Use of R in Research + D”University of the Republic ”
+eventos_cyt                     ”[ReproHacks Northern Tour 2020]()”                                                       ”Software Sustainability Institute”
+eventos_cyt                     ”[LatinR](https://latin-r.com/).  Latin American Conference on the Use of R in Research + ”Pontifical Catholic University of Chile”
+eventos_cyt                     ”[LatinR](https://latin-r.com/).  Latin American Conference on the Use of R in Research + ”University of Palermo”
+congresos                       ”Framework for the ecological risk assessment of pesticides in the Pampa region”          ”8th Young Environmental Scientist Meeting”
+congresos                       ”Species Sensitivity Distributions for Ecotoxicological Risk Assessment: elaboration of a ”LatinR Conference 2018”
+congresos                       ”Pesticide Risk Assessment in the Pampa Region of Argentina: Framework for exposure charac”12th SETAC LatinAmerica Biennial Meeting”
+otros                           ”Interactive tutorials”                                                                   ”R package {learnr}”
+otros                           ”Interactive tutorials”                                                                   ”[Ines Montani] (https://github.com/ines/course-starter-r)  Framework”
+”Primary institution affiliation for entry”            Start date of entry (yEnd year of entry. Set to "current" if entry is stil”Each description column is a separate bullet point for the entry. If you need m
+”institution”                                          start                 end                                                 ”description_1”
+”Buenos Aires, Argentina”                                                2013                                                2019”Thesis: Risk assessment for the use of pesticides used in extensive crops on th
+”Buenos Aires, Argentina”                                                2007                                                2012”Thesis: Alterations in heme synthesis by xenobiotics: liver damage and metaboli
+”Buenos Aires, Argentina”                                                2013                                                2015
+”Buenos Aires, Argentina”                                                2019                                                    ”Development of computer tools to assess the risk of pesticide applications for
+”University of Quebec,  Canada”                                                                                              2017”Hydrological modeling and risk assessment”
+”Buenos Aires, Argentina”                                                2013                                                2019”Evaluation of the risk associated with the current level of use of agrochemical
+”University of Buenos Aires”                                             2011                                                2013”Metabolic disturbances and oxidative stress in experimental models of porphyria
+”Internacional”                                                          2020
+”Internacional”                                                          2019                                                    ”The objective of ReproHack to promote the computational reproducibility of scie
+”Internacional”                                                          2018
+”Buenos Aires, Argentina”                                                2018                                                2019”Community of R users in Buenos Aires”
+”Buenos Aires, Argentina”                                                2017                                                2020”R-Ladies Buenos Aires is part of a worldwide organization to promote Gender Div
+”(Online) USA”                                                                                                               2020”Certification in Shiny apps and programming teaching practices”
+”(Online) USA”                                                                                                               2018”Certification in the group of R packages known as "Tidyverse" and programming t
+”(Online) USA”                                                                                                               2018”Certification in programming education”
+”Buenos Aires, Argentina”                                                                                                    2018
+”California, USA”                                                                                                            2016”Workshop on creating web applications with the {shiny} package”
+”Buenos Aires, Argentina”                                                                                                    2015
+”San Luis, Argentina”                                                                                                        2020
+”Corrientes, Argentina”                                                                                                      2020”Workshop dictated with Roxana Villafañe and Patricia Loto”
+”Buenos Aires, Argentina”                                                                                                    2020”Seminar for the INTA Natural Resources Research Center.”
+”Remote”                                                                                                                     2020
+”(Online due to COVID19) University of the Republica, Uruguay”                                                               2020”Workshop given with Juan Cruz Rodríguez and Vilma Romero”
+”(Online due to COVID19) Madison, USA”                                                                                       2020”Organization of an online translation event for the Spanish-speaking community
+”(Online due to COVID19) Madison, USA”                                                                                       2020”Workshop dictated with Pablo Bernabeu”
+”Corrientes, Argentina”                                                                                                      2019
+”National University of Salta, Argentina”                                                                                    2018”Workshop dictated with Yanina Saibene Bellini”
+”University of Palermo,  Argentina”                                                                                          2018”Workshop dictated with Rayna Harris”
+”Online”                                                                                                                     2018
+”Buenos Aires, Argentina”                                                                                                    2018
+”Buenos Aires, Argentina”                                                                                                    2017”GERMINA contest. Green Schools Program. University of San Andrés.”
+”National University of San Luis, Argentina”                                                                                 2017”First pre-conference workshop at SETAC taught by a student”
+”Buenos Aires, Argentina”                                                                                                    2020”Taller para estudiantes de la Facultad de AgronomÃ­a de la Universidad de Bueno
+                                                                                                                             2020”Bahl, M. F., Brodeur, J. C., Costa, C. S., **Dâ€™Andrea, M. F.**, SansiÃ±ena, J
+                                                                                                                             2020”Brodeur, J. C., Candioti, J. V., Damonte, M. J., Bahl, M. F., Poliserpi, M. B.,
+                                                                                                                             2019”Brodeur, J. C., Poletta, G. L., Simoniello, M. F., Carriquiriborde, P., Cristos
+                                                                                                                             2019”**D'Andrea, M. F.**; Letorneau, G.; Rosseau, A. N; Brodeur, J. C.”
+                                                                                                                             2019”Vera-Candioti, J., **D'Andrea, M. F.**, & Brodeur, J. C.”
+                                                                                                                             2018”**D'Andrea, M.F.**; Brodeur, J.C.”
+                                                                                                                             2018”**D'Andrea, M. F.**; Rosseau, A. N.; Bigah, Y; Gattinoni, N. N.; Brodeur, J. C.
+                                                                                                                             2017”Brodeur, J. C.; Sanchez, M.; Castro, L.; Rojas, D. E.; Cristos, D.; Damonte, M.
+                                                                                                                             2017”Vera Candioti, J; **D'Andrea, M.F.**; Brodeur, J.C.”
+”Buenos Aires, Argentina”                                                                                                    2017”Intern: Sara Friedrichs”
+”(Online due to COVID19) Montevideo”                                                                                         2020”Chair”
+”University of Sheffield”                                                                                                    2020###############################################################################
+”Santiago de Chile”                                                                                                          2019”Organizing committee”
+”Buenos Aires”                                                                                                               2018”Organizing committee”
+”University of Ghent”                                                                                                        2019”I presented this work as oral communication in the congress.”
+”University Palermo”                                                                                                         2018”First presentation of a Shiny app.”
+”Sao Pablo”                                                                                                                  2017”Work recognized as one of the best in its section.”
+                                                                                                                             2020”[Introduction to Modern Statistics Tutorials - Open Intro](https://openintrosta
+                                                                                                                             2019”[GAMs in R - Noam Ross](https://noamross.github.io/gams-in-r-course/)”
+ore description bullet points simply add a new column with title "description_{4,5,..}"”                                                                        A filter variable that is used to decide if entry is in the smaller resume
+”description_2”                                                                 description_3                                                                   in_resume
+”Director: Dra. Julie C. Brodeur”                                                                                                                                                             TRUE
+”Director: Dra. Marta Mazzetti”                                                                                                                                                               TRUE
+                                                                                                                                                                                              TRUE
+”Director: Dra. Julie C. Brodeur”                                                                                                                                                             TRUE
+”Director: Dr. Alain N. Rousseau”                                                                                                                                                             TRUE
+”Director: Dra. Julie C. Brodeur”                                                                                                                                                             TRUE
+”Director: Dra. Marta Mazzetti”                                                                                                                                                               TRUE
+                                                                                                                                                                                              TRUE
+ntific articles from the organization of Hackathons”                                                                                                                                          TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+ersity in the R.”                                                                                                                                                                             TRUE
+                                                                                                                                                                                              TRUE
+eaching practices”                                                                                                                                                                            TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+of [The Carpentries.] (Https://carpentries.org/)”                                                                                                                                             TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                             FALSE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                             FALSE
+                                                                                                                                                                                             FALSE
+                                                                                                                                                                                              TRUE
+”Part of the Team”                                                                                                                                                                           FALSE
+. A., Marino, D. J., & Natale, G. S.”                                                                                                                                                         TRUE
+ & **D'Andrea, M. F.**”                                                                                                                                                                       TRUE
+, D. S., Pautasso, N., **D'Andrea M.F.** & Aca, V. L”                                                                                                                                         TRUE
+”Software asociado a esta publicaciÃ³n [PWCfilegenerator v0.1.0: An R package for creating weather files for PWC](https://github.com/flor14/PWCfilegenerator/tre                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+”                                                                                                                                                                                             TRUE
+ J.; Poliserpi, M. B.; **D'Andrea, M. F.**; Andriulo, A. E.”                                                                                                                                  TRUE
+                                                                                                                                                                                              TRUE
+”Topic: Ecotoxicological risk assessment of pesticides in aquatic environments.”                                                                                                              TRUE
+”[ReproHack in LatinR 2020](https://latin-r.com/blog/reprohack-en):Organization of the first computational reproducibility hackathon in Spanish”                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+                                                                                                                                                                                              TRUE
+t.github.io/ims-tutorials/)”                                                                                                                                                                  TRUE
+”[Supervised Machine Learning Case Studies in R - Julia Silge](https://supervised-ml-course.netlify.app/)”                                                                                    TRUE
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
